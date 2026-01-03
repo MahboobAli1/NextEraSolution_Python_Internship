@@ -13,7 +13,7 @@ A **Python-based voice assistant** for Windows that can open apps, tell time/dat
 *Assistant in action responding to voice commands*
 
 You can also watch a video demo here:  
-[🎥 Watch Demo Video]()  
+[🎥 Watch Demo Video](https://url-shortener.me/67YQ)  
 
 ---
 
