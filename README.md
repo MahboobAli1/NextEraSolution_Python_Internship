@@ -1,50 +1,19 @@
-# 🎙️ Voice Assistant Project
+# NextEra Solution With Technology – Python Internship
 
-[![Python](https://img.shields.io/badge/python-3.11-blue)](https://www.python.org/)
-[![License](https://img.shields.io/badge/license-MIT-green)](LICENSE)
+This repository contains the Python programming tasks completed during my internship at **NextEra Solution With Technology**.
 
-A **Python-based voice assistant** for Windows that can open apps, tell time/date, search the web, fetch Wikipedia summaries, and respond to your voice commands — all in **real-time**!  
+## Internship Domain
+Python Programming
 
----
+## Tasks Overview
 
-## 📺 Demo
+### Task 1: Fibonacci Generator
+A Python program that generates the Fibonacci sequence using a mathematical recurrence relation.
 
-![Assistant Demo](assets/demo.gif)  
-*Assistant in action responding to voice commands*
+### Task 2: Voice Assistant
+A Python-based voice assistant designed to automate tasks and respond to voice commands.
 
-You can also watch a video demo here:  
-[🎥 Watch Demo Video](https://url-shortener.me/67YQ)  
+Each task is organized in a separate folder with its own README file for clear understanding and evaluation.
 
----
-
-## ⚡ Features
-
-- 🖥 **Open & close applications** (Chrome, VS Code, YouTube)  
-- 🕒 **Tell time & date** instantly  
-- 🌐 **Search the web** from your voice  
-- 📚 **Fetch Wikipedia summaries** for topics  
-- 💬 **Greetings & conversation**  
-- 🎧 **Continuous listening** with automatic speech recognition  
-
----
-
-## 📋 Supported Commands
-
-| Command Type      | Example Command                  | Result                                           |
-|------------------|---------------------------------|------------------------------------------------|
-| Open App          | "Open Chrome"                   | Opens Chrome                                    |
-| Close App         | "Close VS Code"                 | Closes VS Code if opened by assistant          |
-| Time & Date       | "What time is it?"              | Responds with current time                      |
-| Wikipedia         | "What is Python?"               | Fetches 2-sentence Wikipedia summary           |
-| Web Search        | "Search AI tutorials"           | Opens Google search with query                  |
-| Greetings         | "Hello", "Hi"                   | Responds with greeting                          |
-| Exit Assistant    | "Stop", "Quit", "Exit"          | Stops the assistant                             |
-
----
-
-## 🛠️ Installation
-
-1. **Clone the repository**:
-```bash
-git clone https://github.com/yourusername/VoiceAssistantProject.git
-cd VoiceAssistantProject
+## Intern
+Mahboob Ali
